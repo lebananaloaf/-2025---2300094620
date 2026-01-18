@@ -6,41 +6,13 @@
 
 ## ✅ 快速导航
 
-- Cheat Sheet：[`cheetsheet.md`](LLM_数算期末笔试/LLMlearning数算期末.md)
-- 课程笔记：[`notes/`](LLM_数算期末笔试/)
-- 作业/代码：[`code/`](code/)
-- 课程总结：[`course_summary.md`](course_summary.md)
-
----
-
-## 1. Cheat Sheet
-- Markdown 版本：`cheatsheet/cheat_sheet.md`
-- PDF 版本：`cheatsheet/cheat_sheet.pdf`
-
----
-
-## 2. 课程笔记
-
-- 笔记目录：`notes/`
-- 建议结构（示例）：
-  - `notes/week01.md`
-  - `notes/week02.md`
-  - `notes/chapter03.md`
+- 期末笔试复习：[`cheetsheet.md`](LLM_数算期末笔试/LLMlearning数算期末.md) / [`cheetsheet.pdf`](LLM_数算期末笔试/LLMlearning数算期末.pdf) 
+- 课程笔记：[`notes.md`](概念综述笔记/数算笔记：纯笔记.md) / [`notes.pdf`](概念综述笔记/数算笔记：纯笔记.pdf)
+- 作业/代码：[`code.md`](数算代码综述/笔记-数算：纯练习题.md) / [`code.pdf`](数算代码综述/笔记-数算：纯练习题.pdf)
+- cheatsheet：[`cheatsheet.md`](数算cheatsheet/笔记-数算：cheatsheet.md) / [`cheatsheet.pdf`](数算cheatsheet/笔记-数算：cheatsheet.pdf)
 
 
----
-
-## 3. 作业与代码
-
-- 代码目录：`code/`
-- 示例：
-  - `code/hw1/`
-  - `code/lab2/`
-
----
-
-## 4. 课程总结
-- 总结文件：`course_summary.md`
+## 课程总结
 - 建议包含：
   - 我学到的 3–5 个关键点
   - 最难的 1–2 个点 & 我如何解决
