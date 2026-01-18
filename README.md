@@ -6,7 +6,7 @@
 
 ## ✅ 快速导航
 
-- Cheat Sheet：[[`cheatsheet/cheat_sheet.md`](cheatsheet/cheat_sheet.md](https://github.com/lebananaloaf/-2025---2300094620/blob/main/LLM_%E6%95%B0%E7%AE%97%E6%9C%9F%E6%9C%AB%E7%AC%94%E8%AF%95/LLM%20learning%20%E6%95%B0%E7%AE%97%E6%9C%9F%E6%9C%AB.md)) / [`[cheatsheet/cheat_sheet.pdf](https://github.com/lebananaloaf/-2025---2300094620/blob/main/LLM_%E6%95%B0%E7%AE%97%E6%9C%9F%E6%9C%AB%E7%AC%94%E8%AF%95/LLM%20learning%20%E6%95%B0%E7%AE%97%E6%9C%9F%E6%9C%AB.pdf)`](cheatsheet/cheat_sheet.pdf)
+- Cheat Sheet：[[`https://github.com/lebananaloaf/-2025---2300094620/blob/main/LLM_%E6%95%B0%E7%AE%97%E6%9C%9F%E6%9C%AB%E7%AC%94%E8%AF%95/LLM%20learning%20%E6%95%B0%E7%AE%97%E6%9C%9F%E6%9C%AB.md`](cheatsheet/cheat_sheet.md](https://github.com/lebananaloaf/-2025---2300094620/blob/main/LLM_%E6%95%B0%E7%AE%97%E6%9C%9F%E6%9C%AB%E7%AC%94%E8%AF%95/LLM%20learning%20%E6%95%B0%E7%AE%97%E6%9C%9F%E6%9C%AB.md)) / [`[[cheatsheet/cheat_sheet.pdf](https://github.com/lebananaloaf/-2025---2300094620/blob/main/LLM_%E6%95%B0%E7%AE%97%E6%9C%9F%E6%9C%AB%E7%AC%94%E8%AF%95/LLM%20learning%20%E6%95%B0%E7%AE%97%E6%9C%9F%E6%9C%AB.pdf)`](cheatsheet/cheat_sheet.pdf](https://github.com/lebananaloaf/-2025---2300094620/blob/main/LLM_%E6%95%B0%E7%AE%97%E6%9C%9F%E6%9C%AB%E7%AC%94%E8%AF%95/LLM%20learning%20%E6%95%B0%E7%AE%97%E6%9C%9F%E6%9C%AB.pdf))
 - 课程笔记：[`notes/`](notes/)
 - 作业/代码：[`code/`](code/)
 - 课程总结：[`course_summary.md`](course_summary.md)
