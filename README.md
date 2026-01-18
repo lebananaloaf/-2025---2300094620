@@ -6,8 +6,8 @@
 
 ## ✅ 快速导航
 
-- Cheat Sheet：[`cheetsheet.md`](LLM_数算期末笔试/LLM learning 数算期末.md)
-- 课程笔记：[`notes/`](notes/)
+- Cheat Sheet：[`cheetsheet.md`](LLM_数算期末笔试/LLMlearning数算期末.md)
+- 课程笔记：[`notes/`](LLM_数算期末笔试/)
 - 作业/代码：[`code/`](code/)
 - 课程总结：[`course_summary.md`](course_summary.md)
 
