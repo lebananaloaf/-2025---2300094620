@@ -4,23 +4,22 @@
 
 ---
 
-## ✅ 快速导航（助教可直接按此检查）
-- GitHub 仓库链接：【粘贴你的仓库链接】
+## ✅ 快速导航
+
 - Cheat Sheet（必交）：[`cheatsheet/cheat_sheet.md`](cheatsheet/cheat_sheet.md) / [`cheatsheet/cheat_sheet.pdf`](cheatsheet/cheat_sheet.pdf)
-- 课程笔记（课程资料，必交）：[`notes/`](notes/)
-- 课程资料汇总（必交）：[`materials/`](materials/)
-- 作业/代码（如有）：[`code/`](code/)
-- 课程总结（可选但建议）：[`course_summary.md`](course_summary.md)
+- 课程笔记：[`notes/`](notes/)
+- 作业/代码：[`code/`](code/)
+- 课程总结：[`course_summary.md`](course_summary.md)
 
 ---
 
-## 1. Cheat Sheet（考试速查表）
+## 1. Cheat Sheet
 - Markdown 版本：`cheatsheet/cheat_sheet.md`
 - PDF 版本：`cheatsheet/cheat_sheet.pdf`
 
 ---
 
-## 2. 课程笔记（Notes）
+## 2. 课程笔记
 
 - 笔记目录：`notes/`
 - 建议结构（示例）：
@@ -31,7 +30,7 @@
 
 ---
 
-## 4. 作业与代码
+## 3. 作业与代码
 
 - 代码目录：`code/`
 - 示例：
@@ -40,7 +39,7 @@
 
 ---
 
-## 5. 课程总结
+## 4. 课程总结
 - 总结文件：`course_summary.md`
 - 建议包含：
   - 我学到的 3–5 个关键点
@@ -49,7 +48,3 @@
   - 对后续同学的建议
 
 
----
-
-## 7. 截图说明（用于 Canvas 作业提交）
-Canvas 要求提交 GitHub 截图：建议截取本仓库首页（README + 文件结构），证明已包含 Cheat Sheet 与课程资料。
